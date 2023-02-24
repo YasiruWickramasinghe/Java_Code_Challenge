@@ -36,8 +36,13 @@ public class Main {
 //        obj8.sumOfDigits();
 
 // (9) largest Of Three Numbers
-        LargestOfThreeNumbers obj9 = new LargestOfThreeNumbers();
-        obj9.largestOfThreeNumbers();
+//        LargestOfThreeNumbers obj9 = new LargestOfThreeNumbers();
+//        obj9.largestOfThreeNumbers();
+
+// (9) FibonacciSeries
+        FibonacciSeries obj10 = new FibonacciSeries();
+        obj10.fibonacciSeries();
+
 
 
     }
