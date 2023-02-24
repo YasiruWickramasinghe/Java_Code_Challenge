@@ -8,8 +8,12 @@ public class Main {
 //        obj.swapTwoNumbers(a, b);
 
         // (2) Reverse a Number
-        ReverseNumber obj2 = new ReverseNumber();
-        obj2.reverseNumber();
+//        ReverseNumber obj2 = new ReverseNumber();
+//        obj2.reverseNumber();
+
+        // (3) Reverse a String
+        ReverseString obj3 = new ReverseString();
+        obj3.reverseString();
 
     }
 }
