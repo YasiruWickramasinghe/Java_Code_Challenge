@@ -40,10 +40,12 @@ public class Main {
 //        obj9.largestOfThreeNumbers();
 
 // (9) FibonacciSeries
-        FibonacciSeries obj10 = new FibonacciSeries();
-        obj10.fibonacciSeries();
+//        FibonacciSeries obj10 = new FibonacciSeries();
+//        obj10.fibonacciSeries();
 
-
+// (10) PrimeNumber
+        PrimeNumber obj11 = new PrimeNumber();
+        obj11.primeNumber();
 
     }
 }
