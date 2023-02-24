@@ -56,9 +56,12 @@ public class Main {
 //        obj13.factorialNumber();
 
 // (14) Find Sum of Elements in Array
-        ArraySumOfElement obj14 = new ArraySumOfElement();
-        obj14.arraySumOfElement();
+//        ArraySumOfElement obj14 = new ArraySumOfElement();
+//        obj14.arraySumOfElement();
 
+// (15) Find Even And Odd Numbers in Array
+        ArrayEvenAndOddNumbers obj15 = new ArrayEvenAndOddNumbers();
+        obj15.arrayEvenAndOddNumbers();
 
     }
 }
