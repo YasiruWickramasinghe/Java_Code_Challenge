@@ -52,8 +52,13 @@ public class Main {
 //        obj12.randomNumber();
 
 // (13) Factorial Number
-        FactorialNumber obj13 = new FactorialNumber();
-        obj13.factorialNumber();
+//        FactorialNumber obj13 = new FactorialNumber();
+//        obj13.factorialNumber();
+
+// (14) Find Sum of Elements in Array
+        ArraySumOfElement obj14 = new ArraySumOfElement();
+        obj14.arraySumOfElement();
+
 
     }
 }
