@@ -32,8 +32,13 @@ public class Main {
 //            obj7.numberOfEvenAndOdd();
 
 // (8) Sum of Digits in a Number
-        SumOfDigits obj8 = new SumOfDigits();
-        obj8.sumOfDigits();
+//        SumOfDigits obj8 = new SumOfDigits();
+//        obj8.sumOfDigits();
+
+// (9) largest Of Three Numbers
+        LargestOfThreeNumbers obj9 = new LargestOfThreeNumbers();
+        obj9.largestOfThreeNumbers();
+
 
     }
 }
