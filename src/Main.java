@@ -28,8 +28,12 @@ public class Main {
 //            obj6.numberOfDigits();
 
 // (7) Number of Digits in a Number
-            NumberOfEvenAndOdd obj6 = new NumberOfEvenAndOdd();
-            obj6.numberOfEvenAndOdd();
+//            NumberOfEvenAndOdd obj7 = new NumberOfEvenAndOdd();
+//            obj7.numberOfEvenAndOdd();
+
+// (8) Sum of Digits in a Number
+        SumOfDigits obj8 = new SumOfDigits();
+        obj8.sumOfDigits();
 
     }
 }
