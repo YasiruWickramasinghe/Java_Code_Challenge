@@ -39,13 +39,16 @@ public class Main {
 //        LargestOfThreeNumbers obj9 = new LargestOfThreeNumbers();
 //        obj9.largestOfThreeNumbers();
 
-// (9) FibonacciSeries
+// (10) Fibonacci Series
 //        FibonacciSeries obj10 = new FibonacciSeries();
 //        obj10.fibonacciSeries();
 
-// (10) PrimeNumber
-        PrimeNumber obj11 = new PrimeNumber();
-        obj11.primeNumber();
+// (11) Prime Number
+//        PrimeNumber obj11 = new PrimeNumber();
+//        obj11.primeNumber();
 
+// (12) Random Number
+        RandomNumber obj12 = new RandomNumber();
+        obj12.randomNumber();
     }
 }
