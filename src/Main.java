@@ -20,9 +20,12 @@ public class Main {
 //        obj4.palindromeNumber();
 
 // (5) Palindrome string
-         PalindromeString  obj5 = new PalindromeString();
-         obj5.palindromeString();
+//         PalindromeString  obj5 = new PalindromeString();
+//         obj5.palindromeString();
 
+// (5) Number of Digits in a Number
+            NumberOfDigits obj6 = new NumberOfDigits();
+            obj6.numberOfDigits();
 
     }
 }
