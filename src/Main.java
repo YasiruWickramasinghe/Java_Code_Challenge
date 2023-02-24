@@ -23,9 +23,13 @@ public class Main {
 //         PalindromeString  obj5 = new PalindromeString();
 //         obj5.palindromeString();
 
-// (5) Number of Digits in a Number
-            NumberOfDigits obj6 = new NumberOfDigits();
-            obj6.numberOfDigits();
+// (6) Number of Digits in a Number
+//            NumberOfDigits obj6 = new NumberOfDigits();
+//            obj6.numberOfDigits();
+
+// (7) Number of Digits in a Number
+            NumberOfEvenAndOdd obj6 = new NumberOfEvenAndOdd();
+            obj6.numberOfEvenAndOdd();
 
     }
 }
