@@ -48,7 +48,12 @@ public class Main {
 //        obj11.primeNumber();
 
 // (12) Random Number
-        RandomNumber obj12 = new RandomNumber();
-        obj12.randomNumber();
+//        RandomNumber obj12 = new RandomNumber();
+//        obj12.randomNumber();
+
+// (13) Factorial Number
+        FactorialNumber obj13 = new FactorialNumber();
+        obj13.factorialNumber();
+
     }
 }
