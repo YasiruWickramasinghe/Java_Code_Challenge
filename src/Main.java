@@ -60,8 +60,12 @@ public class Main {
 //        obj14.arraySumOfElement();
 
 // (15) Find Even And Odd Numbers in Array
-        ArrayEvenAndOddNumbers obj15 = new ArrayEvenAndOddNumbers();
-        obj15.arrayEvenAndOddNumbers();
+//        ArrayEvenAndOddNumbers obj15 = new ArrayEvenAndOddNumbers();
+//        obj15.arrayEvenAndOddNumbers();
+
+// (15) Check two arrays are equal or not
+        ArrayEquals obj16 = new ArrayEquals();
+        obj16.arrayEquals();
 
     }
 }
