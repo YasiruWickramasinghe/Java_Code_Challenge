@@ -68,12 +68,16 @@ public class Main {
 //        obj16.arrayEquals();
 
 // (17) Check missing number in array
-        ArrayMissingNumber obj17 = new ArrayMissingNumber();
-        obj17.arrayMissingNumber();
+//        ArrayMissingNumber obj17 = new ArrayMissingNumber();
+//        obj17.arrayMissingNumber();
 
 // (18) Maximum and minimum number in array
 //        ArrayMaximumAndMinimum obj18 = new ArrayMaximumAndMinimum();
 //        obj18.arrayMaximumAndMinimum();
+
+// (19) How To Find Duplicate Elements in Array
+        ArrayDuplicateElement obj19 = new ArrayDuplicateElement();
+        obj19.arrayDuplicateElement();
 
     }
 }
