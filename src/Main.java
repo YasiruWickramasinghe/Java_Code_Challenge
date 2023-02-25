@@ -76,8 +76,11 @@ public class Main {
 //        obj18.arrayMaximumAndMinimum();
 
 // (19) How To Find Duplicate Elements in Array
-        ArrayDuplicateElement obj19 = new ArrayDuplicateElement();
-        obj19.arrayDuplicateElement();
+//        ArrayDuplicateElement obj19 = new ArrayDuplicateElement();
+//        obj19.arrayDuplicateElement();
 
+// (19) Search an Elements in Array
+        ArrayLinearSearch obj20 = new ArrayLinearSearch();
+        obj20.arrayLinearSearch();
     }
 }
