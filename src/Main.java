@@ -84,8 +84,12 @@ public class Main {
 //        obj20.arrayLinearSearch();
 
 // (21) Search an Elements in Array - Binary Search
-        ArrayBinarySearch obj21 = new ArrayBinarySearch();
-        obj21.arrayBinarySearch();
+//        ArrayBinarySearch obj21 = new ArrayBinarySearch();
+//        obj21.arrayBinarySearch();
+
+// (22) Bubble sort
+        ArrayBubbleSort obj22 = new ArrayBubbleSort();
+        obj22.arrayBubbleSort();
 
     }
 }
