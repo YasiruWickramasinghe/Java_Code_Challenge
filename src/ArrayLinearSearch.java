@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ArrayLinearSearch {
-
     public void arrayLinearSearch(){
         int arr[] = {21,54,56,32,45,20,15};
 

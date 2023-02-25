@@ -79,8 +79,13 @@ public class Main {
 //        ArrayDuplicateElement obj19 = new ArrayDuplicateElement();
 //        obj19.arrayDuplicateElement();
 
-// (19) Search an Elements in Array
-        ArrayLinearSearch obj20 = new ArrayLinearSearch();
-        obj20.arrayLinearSearch();
+// (20) Search an Elements in Array - Linear Search
+//        ArrayLinearSearch obj20 = new ArrayLinearSearch();
+//        obj20.arrayLinearSearch();
+
+// (21) Search an Elements in Array - Binary Search
+        ArrayBinarySearch obj21 = new ArrayBinarySearch();
+        obj21.arrayBinarySearch();
+
     }
 }
