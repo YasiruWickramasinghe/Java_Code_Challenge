@@ -63,9 +63,17 @@ public class Main {
 //        ArrayEvenAndOddNumbers obj15 = new ArrayEvenAndOddNumbers();
 //        obj15.arrayEvenAndOddNumbers();
 
-// (15) Check two arrays are equal or not
-        ArrayEquals obj16 = new ArrayEquals();
-        obj16.arrayEquals();
+// (16) Check two arrays are equal or not
+//        ArrayEquals obj16 = new ArrayEquals();
+//        obj16.arrayEquals();
+
+// (17) Check missing number in array
+        ArrayMissingNumber obj17 = new ArrayMissingNumber();
+        obj17.arrayMissingNumber();
+
+// (18) Maximum and minimum number in array
+//        ArrayMaximumAndMinimum obj18 = new ArrayMaximumAndMinimum();
+//        obj18.arrayMaximumAndMinimum();
 
     }
 }
