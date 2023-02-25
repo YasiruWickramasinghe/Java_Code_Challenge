@@ -92,8 +92,16 @@ public class Main {
 //        obj22.arrayBubbleSort();
 
 // (23) Sort Array using builtin function
-        ArraySortingElement obj23 = new ArraySortingElement();
-        obj23.arraySortingElement();
+//        ArraySortingElement obj23 = new ArraySortingElement();
+//        obj23.arraySortingElement();
+
+// (24) Remove Character In a String
+//        CharacterRemoveInString obj24 = new CharacterRemoveInString();
+//        obj24.characterRemoveInString();
+
+// (24) Remove Character In a String
+        WhiteSpacesRemoveInString obj25 = new WhiteSpacesRemoveInString();
+        obj25.whiteSpacesRemoveInString();
 
     }
 }
