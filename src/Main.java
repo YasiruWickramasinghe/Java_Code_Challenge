@@ -88,8 +88,12 @@ public class Main {
 //        obj21.arrayBinarySearch();
 
 // (22) Bubble sort
-        ArrayBubbleSort obj22 = new ArrayBubbleSort();
-        obj22.arrayBubbleSort();
+//        ArrayBubbleSort obj22 = new ArrayBubbleSort();
+//        obj22.arrayBubbleSort();
+
+// (23) Sort Array using builtin function
+        ArraySortingElement obj23 = new ArraySortingElement();
+        obj23.arraySortingElement();
 
     }
 }
