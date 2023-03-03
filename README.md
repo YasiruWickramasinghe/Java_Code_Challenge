@@ -2,5 +2,5 @@
 
 Java programming interviews often include code questions. Candidates are required to solve problems to showcase their programming abilities and demonstrate technical expertise
 
-YouTube Channel Name : SDET- QA Automation Techie
+Resource(YouTube) : SDET- QA Automation Techie
 
